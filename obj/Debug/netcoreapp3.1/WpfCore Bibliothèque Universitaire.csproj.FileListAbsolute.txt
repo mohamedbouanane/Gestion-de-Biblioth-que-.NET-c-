@@ -1,0 +1,5 @@
+S:\.workspaces\c#_ws\WpfCore Bibliothèque Universitaire\WpfCore Bibliothèque Universitaire\obj\Debug\netcoreapp3.1\WpfCore Bibliothèque Universitaire.csprojAssemblyReference.cache
+S:\.workspaces\c#_ws\WpfCore Bibliothèque Universitaire\WpfCore Bibliothèque Universitaire\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+S:\.workspaces\c#_ws\WpfCore Bibliothèque Universitaire\WpfCore Bibliothèque Universitaire\obj\Debug\netcoreapp3.1\App.g.cs
+S:\.workspaces\c#_ws\WpfCore Bibliothèque Universitaire\WpfCore Bibliothèque Universitaire\obj\Debug\netcoreapp3.1\WpfCore Bibliothèque Universitaire_MarkupCompile.cache
+S:\.workspaces\c#_ws\WpfCore Bibliothèque Universitaire\WpfCore Bibliothèque Universitaire\obj\Debug\netcoreapp3.1\WpfCore Bibliothèque Universitaire_MarkupCompile.lref
