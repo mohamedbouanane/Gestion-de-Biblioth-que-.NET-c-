@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BibliothèqueUniversitaire.Infra.Domain/1.0.0": {
+        "runtime": {
+          "BibliothèqueUniversitaire.Infra.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliothèqueUniversitaire.Infra.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

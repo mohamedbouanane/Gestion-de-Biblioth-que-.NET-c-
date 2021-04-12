@@ -1,0 +1,17 @@
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.csprojAssemblyReference.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.Properties.Resources.resources
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.csproj.GenerateResource.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.csproj.CoreCompileInputs.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\BibliothèqueUniversitaire.exe.config
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\BibliothèqueUniversitaire.exe
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\BibliothèqueUniversitaire.pdb
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\EntityFramework.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\EntityFramework.SqlServer.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\EntityFramework.xml
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\bin\Debug\EntityFramework.SqlServer.xml
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.csproj.CopyComplete
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.exe
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.pdb
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.Migrations.InitDBCreation.resources
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.Migrations.UpdateInitDBCreation.resources
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaire\obj\Debug\BibliothèqueUniversitaire.Form1.resources
