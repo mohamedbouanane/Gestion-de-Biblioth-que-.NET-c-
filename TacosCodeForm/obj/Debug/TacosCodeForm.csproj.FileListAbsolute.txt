@@ -1,0 +1,48 @@
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.exe.config
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.exe
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.pdb
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Form1.resources
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Properties.Resources.resources
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Tools.UC_Head.resources
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.GenerateResource.cache
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CoreCompileInputs.cache
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.exe
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.pdb
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.pdb
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll.config
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csprojAssemblyReference.cache
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CopyComplete
+C:\Users\medbo\Desktop\Projet [APP]\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\ScrollBarEnhanced.resources
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csprojAssemblyReference.cache
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Form1.resources
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\ScrollBarEnhanced.resources
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Properties.Resources.resources
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Tools.UC_Head.resources
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.GenerateResource.cache
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CoreCompileInputs.cache
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.exe
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.pdb
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.exe.config
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.exe
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.pdb
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.pdb
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll.config
+D:\.Projets\[Code Source]\TacosCode\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CopyComplete
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.dll.config
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.dll
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\TacosCodeForm.pdb
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.pdb
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\bin\Debug\Tools Library.dll.config
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csprojAssemblyReference.cache
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Form1.resources
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\ScrollBarEnhanced.resources
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\Tacos.Properties.Resources.resources
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.Tools.UC_Head.resources
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.GenerateResource.cache
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CoreCompileInputs.cache
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.csproj.CopyComplete
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.dll
+D:\.Projets\.Deve\.Plants Projet\.Projets en cours\TacosCode\.Projet\TacosCode1.0 C#\TacosCodeForm\obj\Debug\TacosCodeForm.pdb
