@@ -1,5 +1,4 @@
-﻿using Aornis;
-using BibliothèqueUniversitaire.Data.Repositories;
+﻿using BibliothèqueUniversitaire.Data.Repositories;
 using BibliothèqueUniversitaire.Data.Repositories.Impl;
 using BibliothèqueUniversitaire.Ifrostructure.Context;
 using BibliothèqueUniversitaire.Ifrostructure.IoC;
@@ -32,15 +31,15 @@ namespace BibliothèqueUniversitaire
         static void Main()
         {
             
-            livreService = new LivreRepository(new ModelContext());
-            empruntService = new EmpruntRepository(new ModelContext());
-            adherentService = new AdherentRepository(new ModelContext());
+            //livreService = new LivreRepository(new ModelContext());
+            //empruntService = new EmpruntRepository(new ModelContext());
+            //adherentService = new AdherentRepository(new ModelContext());
 
             //TestInsertionsLivres();
             //TestSupressionDetoutLesLivres();
             //TestGetByIdLivres();
             //TestSelectionLivres();
-            TestUpdateLivres();
+            //TestUpdateLivres();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -53,7 +52,7 @@ namespace BibliothèqueUniversitaire
             DependencyContainer.RegisterServices(services);
         }
 
-
+        /*
         #region CRUD Test
 
         static void TestInsertionsLivres()
@@ -111,6 +110,6 @@ namespace BibliothèqueUniversitaire
 
         #endregion CRUD Test
 
-
+        */
     }
 }

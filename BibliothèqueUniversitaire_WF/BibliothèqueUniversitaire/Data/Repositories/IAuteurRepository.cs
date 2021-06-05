@@ -2,7 +2,7 @@
 
 namespace BibliothèqueUniversitaire.Data.Repositories
 {
-    public interface IAuteurRepository : ICrudRepository<AuteurEntity, long>
+    public interface IAuteurRepository //: IRepository<long, AuteurEntity>
     {
     }
 }

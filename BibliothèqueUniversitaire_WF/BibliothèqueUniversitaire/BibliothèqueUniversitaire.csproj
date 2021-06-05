@@ -36,7 +36,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=1.1.0.188, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.1.1.0.118\lib\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -45,6 +51,9 @@
     </Reference>
     <Reference Include="FSharp.Core, Version=4.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\FSharp.Core.4.5.0\lib\net45\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="KellermanSoftware.Compare-NET-Objects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=d970ace04cc85217, processorArchitecture=MSIL">
+      <HintPath>..\packages\CompareNETObjects.1.3.0.0\lib\KellermanSoftware.Compare-NET-Objects.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
@@ -57,6 +66,12 @@
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.3.5.8\lib\35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.3.13283, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.2.6.3\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Optional, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Optional.4.0.0\lib\net45\Optional.dll</HintPath>
@@ -102,15 +117,6 @@
   <ItemGroup>
     <Compile Include="Ifrostructure\Context\ModelContext.cs" />
     <Compile Include="Ifrostructure\IoC\DependencyContainer.cs" />
-    <Compile Include="Migrations\202104130819484_InitCreationDB.cs" />
-    <Compile Include="Migrations\202104130819484_InitCreationDB.designer.cs">
-      <DependentUpon>202104130819484_InitCreationDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202104140317416_CorrectBugsModel.cs" />
-    <Compile Include="Migrations\202104140317416_CorrectBugsModel.designer.cs">
-      <DependentUpon>202104140317416_CorrectBugsModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Domain\Models\ProvenanceEntity.cs" />
     <Compile Include="Presentation\PrincipalForm.cs">
       <SubType>Form</SubType>
@@ -146,12 +152,6 @@
     <Compile Include="Application\Services\Impl\AbsCrudService.cs" />
     <Compile Include="Application\Services\Impl\EmpruntService.cs" />
     <Compile Include="Application\Services\Impl\LivreService.cs" />
-    <EmbeddedResource Include="Migrations\202104130819484_InitCreationDB.resx">
-      <DependentUpon>202104130819484_InitCreationDB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202104140317416_CorrectBugsModel.resx">
-      <DependentUpon>202104140317416_CorrectBugsModel.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Presentation\PrincipalForm.resx">
       <DependentUpon>PrincipalForm.cs</DependentUpon>
     </EmbeddedResource>

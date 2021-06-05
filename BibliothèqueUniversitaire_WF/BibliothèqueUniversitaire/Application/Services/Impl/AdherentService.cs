@@ -4,9 +4,10 @@ using BibliothèqueUniversitaire.Models;
 
 namespace BibliothèqueUniversitaire.App.Services.Impl
 {
-    public class AdherentService : AbsCrudService<AdherentEntity, long>, IAdherentService
+    public class AdherentService //: AbsCrudService<AdherentEntity, long>, IAdherentService
     {
-        public AdherentService(AdherentRepository repository) : base(repository) { }
+        public AdherentService(AdherentRepository repository) //: base(repository)
+        { }
 
     }
 }

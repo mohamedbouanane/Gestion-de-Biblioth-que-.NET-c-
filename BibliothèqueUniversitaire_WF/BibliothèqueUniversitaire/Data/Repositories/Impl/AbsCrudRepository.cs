@@ -19,7 +19,7 @@ namespace BibliothèqueUniversitaire.Data.Repositories.Impl
         // add : Injection des dépendances
         // Gestion de la concurence 
 
-        protected ModelContext _context;
+        protected  DbContext _context;
 
         public AbsCrudRepository(ModelContext context)
         {

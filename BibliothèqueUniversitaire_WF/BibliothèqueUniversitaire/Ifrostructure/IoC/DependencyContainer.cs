@@ -11,17 +11,18 @@ namespace BibliothèqueUniversitaire.Ifrostructure.IoC
     {
         public static void RegisterServices(IServiceCollection services)
         {
+            /*
             //Services
             services.AddScoped<IAdherentService, AdherentService>();
             services.AddScoped<IAuteurService, AuteurService>();
             services.AddScoped<IEmpruntService, EmpruntService>();
             services.AddScoped<ILivreService, LivreService>();
-
+            
             //Repositories
             services.AddScoped<IAdherentRepository, AdherentRepository>();
             services.AddScoped<IAuteurRepository, AuteurRepository>();
             services.AddScoped<IEmpruntRepository, EmpruntRepository>();
-            services.AddScoped<ILivreRepository, LivreRepository>();
+            services.AddScoped<ILivreRepository, LivreRepository>();*/
 
         }
     }

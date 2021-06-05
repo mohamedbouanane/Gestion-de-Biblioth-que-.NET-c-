@@ -1,6 +1,4 @@
 ﻿using BibliothèqueUniversitaire.Models;
-using BibliothèqueUniversitaire.Repositories;
-using BibliothèqueUniversitaire.Repositories.Impl;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BibliothèqueUniversitaire.App</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Impl\" />
+    <PackageReference Include="DynamicRepository.EFCore" Version="1.3.2" />
+    <PackageReference Include="Optional" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliothèqueUniversitaire.Infrastructure.Data\BibliothèqueUniversitaire.Infra.Data.csproj" />
   </ItemGroup>
 
 </Project>

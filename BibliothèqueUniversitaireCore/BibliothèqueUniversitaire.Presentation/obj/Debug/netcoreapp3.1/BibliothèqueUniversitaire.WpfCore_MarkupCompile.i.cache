@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Presentation\App.xaml
-11151548125
+2-2080657775
 
-6509632049
-213-998552043
-MainWindow.xaml;
+11-1704835883
+22288386422
+Views\UserControls\AccueilUc.xaml;Views\Windows\PrincipalWindow.xaml;
 
 False
 

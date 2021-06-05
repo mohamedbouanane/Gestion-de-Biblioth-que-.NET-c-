@@ -1,0 +1,15 @@
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.deps.json
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.pdb
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Infra.Data.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Infra.Domain.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Infra.Data.pdb
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\bin\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Infra.Domain.pdb
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.csproj.AssemblyReference.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.AssemblyInfoInputs.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.AssemblyInfo.cs
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.csproj.CoreCompileInputs.cache
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.csproj.CopyComplete
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.dll
+S:\.workspaces\git\Gestion de Bibliothèque .NET c#\BibliothèqueUniversitaireCore\BibliothèqueUniversitaire.Application\obj\Debug\netcoreapp3.1\BibliothèqueUniversitaire.Application.pdb

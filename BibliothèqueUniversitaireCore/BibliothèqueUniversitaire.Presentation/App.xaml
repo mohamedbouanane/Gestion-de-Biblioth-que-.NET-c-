@@ -2,8 +2,13 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:BibliothèqueUniversitaire.ApplicationWpfCore"
-             StartupUri="MainWindow.xaml">
+             StartupUri="Views/Windows/PrincipalWindow.xaml">
     <Application.Resources>
 
+        <!-- Config Images/icons Resources -->
+        <ResourceDictionary>
+            <BitmapImage x:Key="Menu" UriSource="Views\Assets\menu_48px.png"></BitmapImage>
+        </ResourceDictionary>
+        
     </Application.Resources>
 </Application>

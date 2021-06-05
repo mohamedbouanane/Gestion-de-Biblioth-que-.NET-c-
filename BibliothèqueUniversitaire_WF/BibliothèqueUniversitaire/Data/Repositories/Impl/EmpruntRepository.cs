@@ -1,12 +1,12 @@
-﻿using BibliothèqueUniversitaire.Ifrostructure.Context;
-using BibliothèqueUniversitaire.Models;
+﻿using BibliothèqueUniversitaire.Models;
 using System.Collections.Generic;
+using System.Data.Entity;
 
 namespace BibliothèqueUniversitaire.Data.Repositories.Impl
 {
-    public class EmpruntRepository : AbsCrudRepository<EmpruntEntity, long>, IEmpruntRepository
+    public class EmpruntRepository //: Repository<EmpruntEntity, long>, IEmpruntRepository
     {
-        public EmpruntRepository(ModelContext context) : base(context)
+        public EmpruntRepository(DbContext context) //: base(context)
         {
         }
 

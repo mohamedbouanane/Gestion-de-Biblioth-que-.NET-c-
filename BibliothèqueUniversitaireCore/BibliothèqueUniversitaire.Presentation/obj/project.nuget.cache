@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "nmyLe9U/1AMwn0fp+ru2gzJ1K4MtOgsagqEmmIAPh9sX1FL/mFwcSClUX9/DIp+x3HKwy4PVJPyE6bTQTed5oQ==",
+  "dgSpecHash": "AJl0omOUppcejV+yJJq702Ee2L2t7uNrbvvBLHpxK5751D+8sR61QK+i/U9h3U+QVlDckx5TjEa7F0Bh/7SVFw==",
   "success": true,
   "projectFilePath": "S:\\.workspaces\\git\\Gestion de Bibliothèque .NET c#\\BibliothèqueUniversitaireCore\\BibliothèqueUniversitaire.Presentation\\BibliothèqueUniversitaire.WpfCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\OSMaster\\.nuget\\packages\\dynamicrepository\\1.3.2\\dynamicrepository.1.3.2.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\dynamicrepository.efcore\\1.3.2\\dynamicrepository.efcore.1.3.2.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\faker.net\\1.5.136\\faker.net.1.5.136.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\linqkit.core\\1.1.17\\linqkit.core.1.1.17.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
@@ -34,7 +39,11 @@
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\optional\\4.0.0\\optional.4.0.0.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\polly\\7.2.0\\polly.7.2.0.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\randomdatagenerator.net\\1.0.12\\randomdatagenerator.net.1.0.12.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
@@ -59,6 +68,7 @@
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\OSMaster\\.nuget\\packages\\system.linq.dynamic.core\\1.0.22\\system.linq.dynamic.core.1.0.22.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
@@ -101,7 +111,7 @@
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\OSMaster\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\OSMaster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],
   "logs": []
 }

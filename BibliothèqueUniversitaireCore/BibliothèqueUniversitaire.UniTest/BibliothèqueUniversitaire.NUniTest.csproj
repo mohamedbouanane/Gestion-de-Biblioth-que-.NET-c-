@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Faker.Net" Version="1.5.136" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="RandomDataGenerator.Net" Version="1.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliothèqueUniversitaire.Application\BibliothèqueUniversitaire.Application.csproj" />
+    <ProjectReference Include="..\BibliothèqueUniversitaire.Infrastructure.Data\BibliothèqueUniversitaire.Infra.Data.csproj" />
+    <ProjectReference Include="..\BibliothèqueUniversitaire.Infrastructure.Domain\BibliothèqueUniversitaire.Infra.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

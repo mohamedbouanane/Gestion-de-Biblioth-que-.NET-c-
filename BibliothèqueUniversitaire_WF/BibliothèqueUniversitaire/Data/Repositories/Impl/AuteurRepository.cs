@@ -1,11 +1,11 @@
-﻿using BibliothèqueUniversitaire.Ifrostructure.Context;
-using BibliothèqueUniversitaire.Models;
+﻿using BibliothèqueUniversitaire.Models;
+using System.Data.Entity;
 
 namespace BibliothèqueUniversitaire.Data.Repositories.Impl
 {
-    public class AuteurRepository : AbsCrudRepository<AuteurEntity, long>, IAuteurRepository
+    public class AuteurRepository //: Repository<long, AuteurEntity>, IAuteurRepository
     {
-        public AuteurRepository(ModelContext context) : base(context)
+        public AuteurRepository(DbContext context) //: base(context)
         {
         }
     }
